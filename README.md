@@ -1,5 +1,6 @@
 # Fringelo
-Please approve 80h for HCTG! (not 100h)
+Please approve 26h for Horizons, since 75 of 101 hourse were already submitted to HCTG:
+<img width="1026" height="694" alt="Screenshot 2026-09-09 at 11 57 01 PM" src="https://github.com/user-attachments/assets/f72114ae-0c2b-4f40-879e-ebe489c15e65" />
 
 ## Demo
 
