@@ -17,6 +17,26 @@ That means:
 - **MCP support:** everything can be done with MCP by Claude.
 - **Automatic DNS:** all my domains are connected — I don't need to set DNS records, it's automatically handled by Fringelo via the Cloudflare API.
 
+## Usage
+
+Log in to the [demo](https://app.fringelo.com) with the credentials above and explore:
+
+- **Dashboard:** overview of your projects, deployments and usage.
+- **Codespaces:** create a codespace, open the built-in web IDE, edit files and commit/push straight from the browser.
+- **Deployments:** view deployments per project, including custom domains.
+- **Domains:** manage coonected domains (Cloudflare-backed DNS automation).
+- **APIs:** browse the integrated API catalog (DB, ChatGPT, Gemini, etc.) and manage keys.
+- **Tables:** create and manage database tables/columns without writing SQL by hand.
+
+There are 3 demo projects, demonstrating some of the features:
+- Orbit: Databse + OpenAI API
+- Media-Uploads: Database + File Storage API
+- guestbook: Database (4 codespaces each with an own domain connected)
+    1. guestbook.polan.dev
+    2. todos.polan.dev
+    3. links.polan.dev
+    4. poll.polan.dev
+    
 ## Tech Stack
 
 - **Frontend:** Vue + Vite + a little bit of TypeScript
